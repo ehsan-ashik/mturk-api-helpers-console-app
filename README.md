@@ -31,7 +31,7 @@ Here are a list of dependencies for the app:
 3. Set the `AWS_ACCESS_KEY_ID` and `AWS_ACCESS_KEY_SECRET` (AWS IAM/root user with permission to access Mechanical Turk) properties in the `MTurkAPIHelpers/Constants/Config` file.
 4. Build and Run the Solution.
 
-## Usage (VS Code)
+## Usage (VS Code/Command Line)
 Here are a list of steps to run the app locally:
 
 1. Clone the repo using the command: `git clone https://github.com/ehsan-ashik/mturk-api-helpers.git`
