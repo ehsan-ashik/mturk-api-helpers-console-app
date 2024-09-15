@@ -26,7 +26,7 @@ Here are a list of dependencies for the app:
 
 ## Usage (Visual Studio)
 
-1. Clone the repo using the command: ``
+1. Clone the repo using the command: `git clone https://github.com/ehsan-ashik/mturk-api-helpers.git`
 2. Open the `MTurkAPIHelpers.sln` with **Visual Studio**
 3. Set the `AWS_ACCESS_KEY_ID` and `AWS_ACCESS_KEY_SECRET` (AWS IAM/root user with permission to access Mechanical Turk) properties in the `MTurkAPIHelpers/Constants/Config` file.
 4. Build and Run the Solution.
@@ -34,7 +34,7 @@ Here are a list of dependencies for the app:
 ## Usage (VS Code)
 Here are a list of steps to run the app locally:
 
-1. Clone the repo using the command: ``
+1. Clone the repo using the command: `git clone https://github.com/ehsan-ashik/mturk-api-helpers.git`
 2. Open the repo with code and `cd` into *MTurkAPIHelpers*
 3. Set the `AWS_ACCESS_KEY_ID` and `AWS_ACCESS_KEY_SECRET` (AWS IAM/root user with permission to access Mechanical Turk) properties in the `MTurkAPIHelpers/Constants/Config` file.
 4. Build the project in the command line with the command: `dotnet build`
